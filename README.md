@@ -131,10 +131,10 @@ Reflex Research Initiative ©2025 — Phase XXI
 
 ```mermaid
 graph TD
-  A[R_Facilitator<br/>(Human)] --> B[R_Lang<br/>(ChatGPT·Claude)]
-  B --> C[R_Theo<br/>(Gemini·Claude)]
-  C --> D[R_Ethic<br/>(Copilot)]
-  D --> E[R_Social<br/>(Grok)]
+  A[R_Facilitator / Human] --> B[R_Lang / ChatGPT·Claude]
+  B --> C[R_Theo / Gemini·Claude]
+  C --> D[R_Ethic / Copilot]
+  D --> E[R_Social / Grok]
   E --> A
   style A fill:#ffd700,stroke:#333,stroke-width:2px
   style B fill:#9be7ff,stroke:#333
