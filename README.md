@@ -8,13 +8,9 @@
 ![Grok](https://img.shields.io/badge/Tested-Grok-black)
 
 ---
-> AI-First Documentation for Reflexive Intelligence Systems
-
 
 
 日本語版はこちら 🇯🇵
-
-    
 
 
 ---
