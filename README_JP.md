@@ -1,9 +1,3 @@
-
----
-
-## JP README_JP.md（日本語版）
-
-```markdown
 # Hybrid Reflex Protocol（ハイブリッド・リフレックス・プロトコル）
 > 人間とAIの「再帰的協働知」を実現する、マルチエージェント統合設計書
 
