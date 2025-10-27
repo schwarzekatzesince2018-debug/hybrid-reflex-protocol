@@ -128,7 +128,7 @@ Reflex Research Initiative ©2025 — Phase XXI
 
 
 ---
-```mermaid
+`mermaid
 graph TD
   A[R_Facilitator (Human)] --> B[R_Lang (ChatGPT/Claude)]
   B --> C[R_Theo (Gemini/Claude)]
