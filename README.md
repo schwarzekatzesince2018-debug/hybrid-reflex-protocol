@@ -127,6 +127,8 @@ Built with 5 AIs in 40 days.
 Reflex Research Initiative ©2025 — Phase XXI
 
 
+### Reflex Loop Structure
+
 ```mermaid
 graph TD
   A[R_Facilitator (Human)] --> B[R_Lang (ChatGPT/Claude)]
