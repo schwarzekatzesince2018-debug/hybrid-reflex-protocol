@@ -1,101 +1,147 @@
 
 ---
 
-## JP README_JP.mdi“ú–{Œê”Åj
+## JP README_JP.mdï¼ˆæ—¥æœ¬èªç‰ˆï¼‰
 
 ```markdown
-# Hybrid Reflex ProtocoliƒnƒCƒuƒŠƒbƒhEƒŠƒtƒŒƒbƒNƒXEƒvƒƒgƒRƒ‹j
-> lŠÔ‚ÆAI‚ÌuÄ‹A“I‹¦“­’mv‚ğÀŒ»‚·‚éAƒ}ƒ‹ƒ`ƒG[ƒWƒFƒ“ƒg“‡İŒv‘
+# Hybrid Reflex Protocolï¼ˆãƒã‚¤ãƒ–ãƒªãƒƒãƒ‰ãƒ»ãƒªãƒ•ãƒ¬ãƒƒã‚¯ã‚¹ãƒ»ãƒ—ãƒ­ãƒˆã‚³ãƒ«ï¼‰
+> äººé–“ã¨AIã®ã€Œå†å¸°çš„å”åƒçŸ¥ã€ã‚’å®Ÿç¾ã™ã‚‹ã€ãƒãƒ«ãƒã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ãƒˆçµ±åˆè¨­è¨ˆæ›¸
+
+![ChatGPT](https://img.shields.io/badge/Tested-ChatGPT-blue)
+![Claude](https://img.shields.io/badge/Tested-Claude-orange)
+![Gemini](https://img.shields.io/badge/Tested-Gemini-green)
+![Copilot](https://img.shields.io/badge/Tested-Copilot-silver)
+![Grok](https://img.shields.io/badge/Tested-Grok-black)
+
+---
 
 [English Version GR](./README.md)
 
 ---
 
-##  ŠT—v
+ğŸ§© æ¦‚è¦
 
-**Hybrid Reflex ProtocoliHRPj** ‚ÍA•¡”‚ÌAI‚ÆlŠÔ‚ª‹¦“­‚µA  
-©ŒÈŒŸØE—Ï—ŠÄ¸E—˜_®‡E‘n‘¢“I¶¬‚ğ**ƒ‹[ƒv\‘¢iReflex Loopj**‚Ås‚¤  
-uÄ‹AŒ^’m«ƒtƒŒ[ƒ€ƒ[ƒNv‚Å‚·B
+Hybrid Reflex Protocolï¼ˆHRPï¼‰ ã¯ã€è¤‡æ•°ã®AIã¨äººé–“ãŒå”åƒã—ã€
+è‡ªå·±æ¤œè¨¼ãƒ»å€«ç†ç›£æŸ»ãƒ»ç†è«–æ•´åˆãƒ»å‰µé€ çš„ç”Ÿæˆã‚’**ãƒ«ãƒ¼ãƒ—æ§‹é€ ï¼ˆReflex Loopï¼‰**ã§è¡Œã†
+ã€Œå†å¸°å‹çŸ¥æ€§ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ã€ã§ã™ã€‚
 
-arXiv˜_•¶uPhase XXIv‚¨‚æ‚Ñnote‹L–‚Å—˜_‚ªÀØ‚³‚êA  
-ChatGPTEClaudeEGeminiECopilotEGrok ŠeAI‚É‚Ä‹N“®Šm”FÏ‚İ‚Å‚·B
+arXivè«–æ–‡ã€ŒPhase XXIã€ãŠã‚ˆã³noteè¨˜äº‹ã§ç†è«–ãŒå®Ÿè¨¼ã•ã‚Œã€
+ChatGPTãƒ»Claudeãƒ»Geminiãƒ»Copilotãƒ»Grok å„AIã«ã¦èµ·å‹•ç¢ºèªæ¸ˆã¿ã§ã™ã€‚
 
----
-
-##  Šî–{\‘¢
-
-| ƒŒƒCƒ„[–¼ | –ğŠ„ | ‘z’èAI |
-|-------------|------|--------|
-| **R_Lang** | ‘n‘¢“I¶¬EŒ¾Œê“‡ | ChatGPT, Claude |
-| **R_Theo** | ˜_—E—˜_ŒŸØ | Gemini, Claude |
-| **R_Ethic** | —Ï—E“§–¾«ŠÄ¸ | Copilot |
-| **R_Social** | Ğ‰ï“I”½Ë‘wE•¶–¬—‰ğ | Grok |
-| **R_Facilitator** | lŠÔ‚É‚æ‚é“‡EŒˆ’è | SchwarzeKatze |
 
 ---
 
-##  Reflex LoopiÄ‹Aƒ‹[ƒvj
-‡@ R_LangF‰e¶¬
-‡A R_TheoF˜_—ŒŸØ
-‡B R_LangFC³”Å¶¬
-‡C R_EthicF“§–¾«E•ÎŒüŠÄ¸
-‡D TS < 0.8 ‚Ìê‡ ¨ ‡B‚Ö–ß‚é
-‡E R_FacilitatorF“‡EÅIo—Í
+ğŸ§  åŸºæœ¬æ§‹é€ 
+
+ãƒ¬ã‚¤ãƒ¤ãƒ¼å	å½¹å‰²	æƒ³å®šAI
+
+R_Lang	å‰µé€ çš„ç”Ÿæˆãƒ»è¨€èªçµ±åˆ	ChatGPT, Claude
+R_Theo	è«–ç†ãƒ»ç†è«–æ¤œè¨¼	Gemini, Claude
+R_Ethic	å€«ç†ãƒ»é€æ˜æ€§ç›£æŸ»	Copilot
+R_Social	ç¤¾ä¼šçš„åå°„å±¤ãƒ»æ–‡è„ˆç†è§£	Grok
+R_Facilitator	äººé–“ã«ã‚ˆã‚‹çµ±åˆãƒ»æ±ºå®š	SchwarzeKatze
+
+
 
 ---
 
-##  w•W‘ÌŒn
+ğŸ” Reflex Loopï¼ˆå†å¸°ãƒ«ãƒ¼ãƒ—ï¼‰
 
-| w•W–¼ | ŒvZ® | –Ú“I |
-|---------|--------|------|
-| “§–¾«ƒXƒRƒA (TS) | (1 - B) ~ (E ~ C) | o—Í‚Ì—Ï—“I“§–¾« |
-| à–¾‰Â”\«w” (E) | ƒ‚ƒfƒ‹‰ğß‰Â”\« | à–¾‚Ì–¾Šm‰» |
-| ˆêŠÑ«ŒW” (C) | ˜_—“IˆÀ’è« | ÄŒ»«‚ÌˆÛ |
-| ”½Ë‹¤–ÂƒXƒRƒA (RRS) | ƒ‹[ƒvŠÔ‚Ì®‡“x | ‹¦“­’m‚Ì¬n“x |
+1. R_Langï¼šåˆç¨¿ç”Ÿæˆ
 
-**Šî€’lFTS † 0.8**
 
----
+2. R_Theoï¼šè«–ç†æ¤œè¨¼
 
-## ? g—p•û–@
 
-1. g—p‚·‚éAI‚ğ‘I‘ğiChatGPT, Claude, Gemini, Copilot, Grokj  
-2. [`core/protocol.md`](core/protocol.md) ‚ğAI‚É“Ç‚İ‚Ü‚¹‚é  
-3. ŠeƒŒƒCƒ„[‚ğŠ„‚è“–‚ÄAReflex Loop‚ğŠJn  
-4. Œ‹‰Ê‚ğ [`validation/`](validation/) ‚É‹L˜^  
+3. R_Langï¼šä¿®æ­£ç‰ˆç”Ÿæˆ
 
-À—á‚Í [`examples/reflex_loop_demo.md`](examples/reflex_loop_demo.md) ‚ğQÆB
 
----
+4. R_Ethicï¼šé€æ˜æ€§ãƒ»åå‘ç›£æŸ»
 
-## ? Ql‘—¿
 
-- [Šwp˜_•¶iarXivŒfÚ—\’èj](https://arxiv.org/abs/XXXX.XXXXX)  
-- [“ú–{Œê‰ğà‹L–inotej](https://note.com/yf6hcug/n/n6b442a036e37)
+5. TS < 0.8 ã®å ´åˆ â†’ â‘¢ã¸æˆ»ã‚‹
+
+
+6. R_Facilitatorï¼šçµ±åˆãƒ»æœ€çµ‚å‡ºåŠ›
+
+
+
 
 ---
 
-## ? ˆø—pî•ñ
+ğŸ“Š æŒ‡æ¨™ä½“ç³»
 
-```bibtex
+æŒ‡æ¨™å	è¨ˆç®—å¼	ç›®çš„
+
+é€æ˜æ€§ã‚¹ã‚³ã‚¢ (TS)	(1 - B) Ã— (E Ã— C)	å‡ºåŠ›ã®å€«ç†çš„é€æ˜æ€§
+èª¬æ˜å¯èƒ½æ€§æŒ‡æ•° (E)	ãƒ¢ãƒ‡ãƒ«è§£é‡ˆå¯èƒ½æ€§	èª¬æ˜ã®æ˜ç¢ºåŒ–
+ä¸€è²«æ€§ä¿‚æ•° (C)	è«–ç†çš„å®‰å®šæ€§	å†ç¾æ€§ã®ç¶­æŒ
+åå°„å…±é³´ã‚¹ã‚³ã‚¢ (RRS)	ãƒ«ãƒ¼ãƒ—é–“ã®æ•´åˆåº¦	å”åƒçŸ¥ã®æˆç†Ÿåº¦
+
+
+åŸºæº–å€¤ï¼šTS â‰§ 0.8
+
+
+---
+
+ğŸš€ ä½¿ç”¨æ–¹æ³•
+
+1. ä½¿ç”¨ã™ã‚‹AIã‚’é¸æŠï¼ˆChatGPT, Claude, Gemini, Copilot, Grokï¼‰
+
+
+2. core/protocol.md ã‚’AIã«èª­ã¿è¾¼ã¾ã›ã‚‹
+
+
+3. å„ãƒ¬ã‚¤ãƒ¤ãƒ¼ã‚’å‰²ã‚Šå½“ã¦ã€Reflex Loopã‚’é–‹å§‹
+
+
+4. çµæœã‚’ validation/ ã«è¨˜éŒ²
+
+
+
+å®Ÿä¾‹ã¯ examples/reflex_loop_demo.md ã‚’å‚ç…§ã€‚
+
+
+---
+
+ğŸ“˜ å‚è€ƒè³‡æ–™
+
+å­¦è¡“è«–æ–‡ï¼ˆarXivæ²è¼‰äºˆå®šï¼‰
+
+æ—¥æœ¬èªè§£èª¬è¨˜äº‹ï¼ˆnoteï¼‰
+
+
+
+---
+
+ğŸ§© å¼•ç”¨æƒ…å ±
+
 @misc{schwarzekatze2025hybrid,
-  title={Hybrid Reflex Protocol: A Multi-Agent Framework for Reflexive Intelligence},
-  author={SchwarzeKatze},
-  year={2025},
-  eprint={XXXX.XXXXX},
-  archivePrefix={arXiv},
-  primaryClass={cs.AI}
+title={Hybrid Reflex Protocol: A Multi-Agent Framework for Reflexive Intelligence},
+author={SchwarzeKatze},
+year={2025},
+eprint={XXXX.XXXXX},
+archivePrefix={arXiv},
+primaryClass={cs.AI}
 }
 
-? §ìÒEƒ‰ƒCƒZƒ“ƒX
 
-ŠJ”­EŠÄCFSchwarzeKatze / Reflex Research Initiative
+---
 
-‹¤“¯À‘•FChatGPTEClaudeEGeminiECopilotEGrok
+ğŸª åˆ¶ä½œè€…ãƒ»ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 
-ƒ‰ƒCƒZƒ“ƒXFCC BY 4.0i•\¦E‰ü•Ï©—R^o“T–¾‹Lj
+é–‹ç™ºãƒ»ç›£ä¿®ï¼šSchwarzeKatze / Reflex Research Initiative
+
+å…±åŒå®Ÿè£…ï¼šChatGPTãƒ»Claudeãƒ»Geminiãƒ»Copilotãƒ»Grok
+
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ï¼šCC BY 4.0ï¼ˆè¡¨ç¤ºãƒ»æ”¹å¤‰è‡ªç”±ï¼å‡ºå…¸æ˜è¨˜ï¼‰
+
+
+
+---
 
 Built with 5 AIs in 40 days.
-Reflex Research Initiative c2025 ? Phase XXI
+Reflex Research Initiative Â©2025 â€” Phase XXI
 
 
+---
