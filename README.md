@@ -123,5 +123,8 @@ primaryClass={cs.AI}
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 You may use, share, and modify with attribution.
 © 2025 SchwarzeKatze / Reflex Research Initiative
-Reflex Research Initiative ©2025 – Phase XXI
+Built with 5 AIs in 40 days.
+Reflex Research Initiative ©2025 — Phase XXI
 
+
+---
